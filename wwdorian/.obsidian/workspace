@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "1c578b9c5e7d3c05",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b00405b163b30ac",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "graph",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "03e946b432cf3d9d",
+        "type": "split",
+        "children": [
+          {
+            "id": "6b6379b8a28341e0",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Untitled.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.4794412856847263,
+                  "close": false
+                }
+              }
+            },
+            "group": "52a747a36162ba84"
+          },
+          {
+            "id": "5ef9c2891d916445",
+            "type": "leaf",
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source"
+              }
+            },
+            "group": "52a747a36162ba84"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f88c443794a3546",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc633b6eb5f8a918",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1edc6f7269adf07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9dccd69eea8d1950",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#reference",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "773f477b0a23d613",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7880bd61ca12675a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "327aa0aa94167328",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f1da3058ccb66b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 192
+  },
+  "right": {
+    "id": "3daf49910a155d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "05c73ffdb89e2d74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1319ca45a287c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          },
+          {
+            "id": "a597ef2aa269ca53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.97711181640625,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md",
+    "The Cambridge Companion to the Body in Literature.md",
+    "the body is undefinable after all.md",
+    "the Body in Literature.md",
+    "views on body in relation to the mind(soul) - traditional v.s. recent.md",
+    "abstraction and concretisation; what is real what do we mean by real.md",
+    "great books are a toolkit.md",
+    "great books are a toolkit..md",
+    "body in literature.md",
+    "organising.md"
+  ]
+}
