@@ -1,3 +1,5 @@
-![[what is the Great Conversation]]
+[[why do we read great books]]
 
-![[how important is the Great Conversation]]
+[[what is the Great Conversation]]
+
+[[how important is the Great Conversation]]

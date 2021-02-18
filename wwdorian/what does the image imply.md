@@ -1,5 +1,3 @@
-### what does the image imply?
-
 The deduction here by the author requires that:
 
 1.  Humans are characterised by intelligence.

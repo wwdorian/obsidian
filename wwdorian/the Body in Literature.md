@@ -4,4 +4,4 @@ source: [Hillman, D., & Maude, U. (Eds.). (2015). The Cambridge Companion to the
 
 ![[traditional v.s. modern views on body]]
 
-![[the body is undefinable after all]]
+![[body is undefinable]]

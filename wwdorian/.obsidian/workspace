@@ -23,7 +23,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled.md",
+                "file": "humans nature - as spirits, like angels.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -34,7 +34,7 @@
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": true,
                   "showArrow": true,
@@ -46,8 +46,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4794412856847263,
-                  "close": false
+                  "scale": 0.9829672486122149,
+                  "close": true
                 }
               }
             },
@@ -60,7 +60,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "humans nature - as spirits, like angels.md",
                 "mode": "source"
               }
             },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "humans nature - as spirits, like angels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,16 +163,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "humans nature - as spirits, like angels.md"
               }
-            }
-          },
-          {
-            "id": "a597ef2aa269ca53",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -184,14 +176,14 @@
   },
   "lastOpenFiles": [
     "Untitled.md",
-    "The Cambridge Companion to the Body in Literature.md",
-    "the body is undefinable after all.md",
-    "the Body in Literature.md",
-    "views on body in relation to the mind(soul) - traditional v.s. recent.md",
+    "angel as an analytical tool.md",
+    "the image of angel.md",
+    "what does the image imply.md",
+    "influenced by religious symbolism.md",
+    "angel.md",
+    "the aura of light as indication of illuminations; greatness v.s. success.md",
+    "angel embodies greatness.md",
     "abstraction and concretisation; what is real what do we mean by real.md",
-    "great books are a toolkit.md",
-    "great books are a toolkit..md",
-    "body in literature.md",
-    "organising.md"
+    "how important is the Great Conversation.md"
   ]
 }

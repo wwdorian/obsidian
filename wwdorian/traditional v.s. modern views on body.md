@@ -1,5 +1,3 @@
-### traditional v.s. modern views on body
-
 The body, in Christian and Humanist traditions, is regarded as an auxiliary, a by-product, a container, even a prison. However, the recent scientific discoveries contradict that view. Instead, the body actually helps form the idea of identity, i.e. the self.
 I personally do not think that the body is a mere auxiliary nor constituent of the self, but rather regard it as an emergence, in the same way that the idea of self is an emergence - it is related to consciousness, after all. Emergence is an idea that I derived from theories about complex systems, which sees the births of everything a sort of emergence and which could be understood by the metaphor that "1+1>2".
 
