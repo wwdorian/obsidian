@@ -4,4 +4,6 @@
 
 ![[great books' value is tested by time]]
 
-![[great books are a toolkit]]
+![[great books are a toolkit to understand other books]]
+
+![[great books can help solve our problems]]

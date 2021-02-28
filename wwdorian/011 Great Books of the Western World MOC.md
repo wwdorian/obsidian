@@ -7,7 +7,6 @@ All in all, I want to be a Renaissance Man, a polymath.
 ## great books by volume
 
 -   Vol. 1 [[the Great Conversation]]
-    -   [[the Great Conversation]]
-    -   [[contemporary problems]]
+
 -   Vol. 2 The Great Ideas: I
-    -   [[angel]]
+    -   [[angel MOC]]

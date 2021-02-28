@@ -6,4 +6,3 @@
 
 ![[the aura of light as indication of illuminations; greatness v.s. success]]
 
-! [[angel as an analytical tool]]

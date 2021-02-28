@@ -4,70 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2b00405b163b30ac",
+        "id": "8263ae215aa7b9c0",
         "type": "leaf",
-        "pinned": true,
+        "active": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "03e946b432cf3d9d",
-        "type": "split",
-        "children": [
-          {
-            "id": "6b6379b8a28341e0",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "humans nature - as spirits, like angels.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": false,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9829672486122149,
-                  "close": true
-                }
-              }
-            },
-            "group": "52a747a36162ba84"
-          },
-          {
-            "id": "5ef9c2891d916445",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "humans nature - as spirits, like angels.md",
-                "mode": "source"
-              }
-            },
-            "group": "52a747a36162ba84"
+          "type": "markdown",
+          "state": {
+            "file": "111.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +56,62 @@
               "type": "starred",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "30e846a783a12208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "498ddca44912ec1f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "111.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8589458344196581,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.0121879577637
+  },
+  "right": {
+    "id": "3daf49910a155d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "16161f347df27b2b",
+        "type": "tabs",
+        "children": [
           {
             "id": "7880bd61ca12675a",
             "type": "leaf",
@@ -121,49 +122,51 @@
                 "useHierarchy": true
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "327aa0aa94167328",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "04f1da3058ccb66b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "humans nature - as spirits, like angels.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
-              }
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 192
-  },
-  "right": {
-    "id": "3daf49910a155d14",
-    "type": "split",
-    "children": [
-      {
-        "id": "05c73ffdb89e2d74",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e1319ca45a287c20",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "humans nature - as spirits, like angels.md"
+                "file": "111.md"
+              }
+            }
+          },
+          {
+            "id": "5853732cace77a4b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dd1fea10d49c673",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e986aa7c23a4c76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92097acedf75c027",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "111.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -171,19 +174,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.97711181640625,
-    "collapsed": true
+    "width": 310.97711181640625
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "angel as an analytical tool.md",
-    "the image of angel.md",
-    "what does the image imply.md",
-    "influenced by religious symbolism.md",
-    "angel.md",
-    "the aura of light as indication of illuminations; greatness v.s. success.md",
-    "angel embodies greatness.md",
-    "abstraction and concretisation; what is real what do we mean by real.md",
-    "how important is the Great Conversation.md"
+    "111.md",
+    "030 Writings MOC.md",
+    "011 Great Books of the Western World MOC.md",
+    "the mess of pottage.md",
+    "the idea of angel was not invented by philosophers.md",
+    "should facial recognition technology be widely applied?.md",
+    "000 Home.md",
+    "should cannabis be a medical option?.md",
+    "bodily expressions embody complexity.md",
+    "political ideologies.md"
   ]
 }

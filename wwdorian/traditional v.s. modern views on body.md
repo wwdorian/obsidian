@@ -2,3 +2,5 @@ The body, in Christian and Humanist traditions, is regarded as an auxiliary, a b
 I personally do not think that the body is a mere auxiliary nor constituent of the self, but rather regard it as an emergence, in the same way that the idea of self is an emergence - it is related to consciousness, after all. Emergence is an idea that I derived from theories about complex systems, which sees the births of everything a sort of emergence and which could be understood by the metaphor that "1+1>2".
 
 > In the Christian and Humanist traditions, it has often been seen as a mere auxiliary to the self, a vehicle or object that houses the mind or the soul. In these views of embodiment, the self is seen as a transcendent entity whose existence depends only contingently on the body, which the 'true' self will eventually shed like a defunct item of clothing. An alternative way of understanding the body, supported by more recent discoveries in science, medicine and philosophy, is that it participates in crucial ways in thinking, feeling and the shaping of our personalities and that precisely for this reason, the body is in fact constitutive of what we call the self.
+
+^27da25

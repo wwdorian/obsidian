@@ -2,7 +2,7 @@ Planning is determining organisational goals and a means for achieving them.
 
 Simply put, [[planning]] is about a goal, and a method to reach that goal.
 
-It is connected with determination as well as vision
+It is connected with determination as well as vision. However, if hesitation takes control in planning, it would lead only to [[paralysis by analysis|analysis paralysis]]
 
 The key point in planning is **clarity**.
 A plan that's successful _eventually_
