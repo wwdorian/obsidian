@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "111.md",
+            "file": "bodily expressions embody complexity.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "111.md",
+                "file": "bodily expressions embody complexity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "111.md"
+                "file": "bodily expressions embody complexity.md"
               }
             }
           },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "111.md",
+                "file": "bodily expressions embody complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,15 +177,15 @@
     "width": 310.97711181640625
   },
   "lastOpenFiles": [
-    "111.md",
+    "bodily expressions embody complexity.md",
+    "annotated bibliography.md",
+    "abstraction and concretisation; what is real what do we mean by real.md",
     "030 Writings MOC.md",
+    "111.md",
     "011 Great Books of the Western World MOC.md",
     "the mess of pottage.md",
     "the idea of angel was not invented by philosophers.md",
     "should facial recognition technology be widely applied?.md",
-    "000 Home.md",
-    "should cannabis be a medical option?.md",
-    "bodily expressions embody complexity.md",
-    "political ideologies.md"
+    "000 Home.md"
   ]
 }
