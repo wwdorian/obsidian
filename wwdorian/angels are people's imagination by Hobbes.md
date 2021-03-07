@@ -2,7 +2,7 @@ Philosophers as well as theologians have long discussed the corporeality of ange
 
 So Hobbes argues that either angels are incorporeal but are temporary beings, or that angels are corporeal and permanent. The former one seems odd since angels would be permanent in resurrection even though their names indicate they are only messengers, which could be anything (to make God's presence known to men). But the latter idea seems even weirder. If angels are permanent. then they must be corporeal. But as we know, corporeal beings eventually die and why would Scripture denotes angels as "spirits" which is incorporeal?
 
-Hobbes did his best to find a balance: angels may be apparitions created by man's imagination of God's messages.
+Hobbes did his best to find a balance: angels may be apparitions created by man's imagination of God's messengers.
 
 > In one book of the Bible, Tobias (Tobit, as it is called in the King James Apocrypha), one of the leading characters is the angel Raphael. Through most of the story he appears as a man, but at the end, after he has accomplished his mission, he reveals his identity. "I am the angel Raphael," he declares,
 > 

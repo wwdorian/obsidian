@@ -105,10 +105,10 @@
   --body-font-weight: 450;
 
   /** Font family for hash-tags **/
-  --tag-font-family: 'Cascadia Code', monospace !important;
+  --tag-font-family: 'Prociono', Serif !important;
 
   /** Font specially for codes **/
-  --code-mono-font: 'OperatorMonoSSmLig-Book';
+  --code-mono-font: 'Cascadia Code';
 }
 
 /**-------------------**
@@ -1097,7 +1097,7 @@ pre {
 }
 
 pre[class*='language-']:before {
-  font-family: Prociono, Cascadia Code, Lucida Grande, Lucida Sans Unicode, Tahoma, Sans-Serif;
+  font-family: Prociono, Cascadia Code, Lucida Grande, Lucida Sans Unicode, Tahoma, Serif;
   font-style: normal;
   font-weight: 700;
   font-size: 0.6rem;
@@ -1336,7 +1336,7 @@ pre[class*='language-'] {
   color: #ccc;
   background: rgb(40, 41, 54);
   text-shadow: none;
-  font-family: 'Cascadia Code', monospace !important;
+  font-family: 'Prociono', 'Cascadia Code', monospace !important;
   text-align: left;
   white-space: pre;
   word-spacing: normal;

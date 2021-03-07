@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8263ae215aa7b9c0",
+        "id": "2c797830e5a9dbbc",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bodily expressions embody complexity.md",
+            "file": "Obsidian使用指南.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bodily expressions embody complexity.md",
+                "file": "Obsidian使用指南.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,8 +92,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8589458344196581,
-                  "close": false
+                  "scale": 2.0262464930113544,
+                  "close": true
                 }
               }
             }
@@ -129,16 +129,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bodily expressions embody complexity.md"
+                "file": "Obsidian使用指南.md"
               }
-            }
-          },
-          {
-            "id": "5853732cace77a4b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -146,6 +138,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6add0c92be397a0a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -161,11 +161,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bodily expressions embody complexity.md",
+                "file": "Obsidian使用指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -177,15 +177,15 @@
     "width": 310.97711181640625
   },
   "lastOpenFiles": [
-    "bodily expressions embody complexity.md",
-    "annotated bibliography.md",
-    "abstraction and concretisation; what is real what do we mean by real.md",
-    "030 Writings MOC.md",
-    "111.md",
+    "Obsidian使用指南.md",
+    "angels are people's imagination by Hobbes.md",
     "011 Great Books of the Western World MOC.md",
-    "the mess of pottage.md",
-    "the idea of angel was not invented by philosophers.md",
-    "should facial recognition technology be widely applied?.md",
-    "000 Home.md"
+    "Untitled.md",
+    "angel MOC.md",
+    "000 Home.md",
+    "great books disappeared.md",
+    "humans nature - as spirits, like angels.md",
+    "great books' value is tested by time.md",
+    "great books are a toolkit to understand other books.md"
   ]
 }

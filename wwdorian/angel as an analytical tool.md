@@ -1,3 +1,9 @@
+
+
+
+
+
+
 Angels, or utopias, can be both considered as 'models'. Models for thought could be used to compare the reality with the ideal in mind, thus to build upon the reality the imagined ideal could become possible. That is one absolutely great ability of human - we can imagine. However [[the idea of angel was not invented by philosophers]]
 
 It is fun to say that we can image and that partly make us homo sapiens. Since no other animals, reportedly or allegedly can think of things that do not exist in reality, or in the here and now. Language is by itself an example. What I am writing are based on scenes in my mind, which I cannot either touch nor see in front of my eyes. Yet, still, I am able to express my thoughts upon these things.

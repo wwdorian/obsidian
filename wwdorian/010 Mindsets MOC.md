@@ -10,6 +10,9 @@ _I want to..._
 -   Be a polymath | Think across disciplines
     -   [[011 Great Books of the Western World MOC|GBWW MOC]]
 
+- Use frameworks for general growth
+	- [[Personal Development]]
+
 ---
 
 tags: #MOC
