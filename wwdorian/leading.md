@@ -1,8 +1,0 @@
-Leading involves inspiring and motivating employees to work hard to achieve organisational goals.
-In short, leading requires leadership that inspires and motivates. It is about gather the best people around and manage to create an environment where they can do their best.
-It can be achieved by **clearly outlining a vision** for the organisation, by **being a role model** and by **setting an example** of [[effectiveness|effective]] management.
-
-### An Example - Gail Kelly
-
-Gail Kelly, former CEO of Westpac, retired as leader of one of Australia's largest banks in 2015. A former school teacher and bank teller, Kelly has made it to the top of the management tree through hard work and good leadership. Reported to be a fierce and courageous head of her organisation, Gail Kelly is also an outspoken advocate for the role of women in business and society. After her career in banking with Westpac, Kelly has taken up an Adjunct Professorship in business with the University of New South Wales, is a director of Woolworths (South Africa), as well as Country Road Group and David Jones (Australia), has written a book on leadership and, as an Ambassador for Women's Empowerment with CARE Australia, is a mentor for young business leaders. She is quoted as saying 'My whole model is based around gathering the best people you can around you and creating an environment where people can do their best work'.
-Gail Kelly inspired people around her to work hard to achieve organisational goals by clearly outlining a vision for her bank, by being a role model and by setting an example of effective management.

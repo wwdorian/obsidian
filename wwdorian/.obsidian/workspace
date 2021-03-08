@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "2c797830e5a9dbbc",
+        "id": "1af56abf75ba560a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Obsidian使用指南.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +37,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reference",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian使用指南.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -92,8 +88,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 2.0262464930113544,
-                  "close": true
+                  "scale": 0.8589458344196581,
+                  "close": false
                 }
               }
             }
@@ -111,6 +107,7 @@
       {
         "id": "16161f347df27b2b",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "7880bd61ca12675a",
@@ -128,9 +125,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian使用指南.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "5853732cace77a4b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           },
           {
@@ -140,20 +143,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "6add0c92be397a0a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
         ]
       },
       {
         "id": "5e986aa7c23a4c76",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "92097acedf75c027",
@@ -161,11 +157,10 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian使用指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -174,18 +169,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.97711181640625
+    "width": 310.97711181640625,
+    "collapsed": true
   },
   "lastOpenFiles": [
+    "workload.md",
     "Obsidian使用指南.md",
+    "paralysis by analysis.md",
+    "the image of angel.md",
+    "the mess of pottage.md",
+    "we have lost our touch with great books.md",
     "angels are people's imagination by Hobbes.md",
-    "011 Great Books of the Western World MOC.md",
     "Untitled.md",
-    "angel MOC.md",
     "000 Home.md",
-    "great books disappeared.md",
-    "humans nature - as spirits, like angels.md",
-    "great books' value is tested by time.md",
-    "great books are a toolkit to understand other books.md"
+    "11.md"
   ]
 }

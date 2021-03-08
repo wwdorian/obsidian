@@ -1,1 +1,0 @@
-A political actor is any individual who **influences the political process** to some extent.
