@@ -9,3 +9,5 @@ All roads lead to home. This is your launchpad and homebase. Your personal North
     -   020 - [[020 Concepts MOC|Concepts]] — #concept
 -   Output
     -   030 - [[030 Writings MOC|Writings]]
+- Work-related Projects
+	- 040 - [[Order Workload MOC]]
