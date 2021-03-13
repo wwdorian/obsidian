@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9393aa192d76e19b",
+        "id": "80b01db782cb2b1a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "order 7.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "order 7.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,9 +124,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "order 7.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "order 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,15 +171,15 @@
     "width": 310.97711181640625
   },
   "lastOpenFiles": [
-    "order 7.md",
     "Order Workload MOC.md",
+    "order 11.md",
+    "order 9.md",
+    "what does the image imply.md",
+    "order 7.md",
+    "order 8.md",
+    "Resources/Screenshot 2021-03-05 at 7.51.33 PM.png",
+    "Resources/session 2 answers - in case sync error occurs.md",
     "order 6.md",
-    "order 5.md",
-    "order 4.md",
-    "order 3.md",
-    "order 2.md",
-    "Untitled.md",
-    "000 Home.md",
-    "order 1.md"
+    "order 5.md"
   ]
 }
