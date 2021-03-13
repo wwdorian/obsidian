@@ -3,4 +3,4 @@
 
 [[annotated bibliography]]
 
-[[article summary]]
+[[how to write an article summary]]

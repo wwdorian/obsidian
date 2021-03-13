@@ -16,4 +16,3 @@ _I want to..._
 ---
 
 tags: #MOC
-links: [[000 Home|Home]]

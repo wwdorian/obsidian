@@ -4,70 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "67a1e3f2a5ee8c94",
+        "id": "9393aa192d76e19b",
         "type": "leaf",
-        "pinned": true,
+        "active": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
-        "id": "998ca8030554815d",
-        "type": "split",
-        "children": [
-          {
-            "id": "498ddca44912ec1f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "order 14.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.2247448713915903,
-                  "close": true
-                }
-              }
-            },
-            "group": "aecd50c00b5f30cd"
-          },
-          {
-            "id": "9393aa192d76e19b",
-            "type": "leaf",
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "order 14.md",
-                "mode": "source"
-              }
-            },
-            "group": "aecd50c00b5f30cd"
+          "type": "markdown",
+          "state": {
+            "file": "order 7.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -110,7 +56,62 @@
               "type": "starred",
               "state": {}
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "30e846a783a12208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "498ddca44912ec1f",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "order 7.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.8589458344196581,
+                  "close": false
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.0121879577637
+  },
+  "right": {
+    "id": "3daf49910a155d14",
+    "type": "split",
+    "children": [
+      {
+        "id": "16161f347df27b2b",
+        "type": "tabs",
+        "children": [
           {
             "id": "7880bd61ca12675a",
             "type": "leaf",
@@ -121,20 +122,47 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "e1319ca45a287c20",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "order 7.md"
+              }
+            }
+          },
+          {
+            "id": "5853732cace77a4b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5dd1fea10d49c673",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "7343bdcdafb6bc92",
+        "id": "5e986aa7c23a4c76",
         "type": "tabs",
         "children": [
           {
-            "id": "6ee7823e8fd6f362",
+            "id": "92097acedf75c027",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "order 14.md",
+                "file": "order 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,51 +175,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 217
-  },
-  "right": {
-    "id": "3daf49910a155d14",
-    "type": "split",
-    "children": [
-      {
-        "id": "05c73ffdb89e2d74",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e1319ca45a287c20",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "order 14.md"
-              }
-            }
-          },
-          {
-            "id": "5853732cace77a4b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 310.97711181640625,
-    "collapsed": true
+    "width": 310.97711181640625
   },
   "lastOpenFiles": [
-    "order 14.md",
-    "000 Home.md",
+    "order 7.md",
     "Order Workload MOC.md",
-    "order 1.md",
-    "order 15.md",
-    "order 13.md",
-    "order 12.md",
-    "order 11.md",
-    "order 10.md",
-    "order 9.md"
+    "order 6.md",
+    "order 5.md",
+    "order 4.md",
+    "order 3.md",
+    "order 2.md",
+    "Untitled.md",
+    "000 Home.md",
+    "order 1.md"
   ]
 }

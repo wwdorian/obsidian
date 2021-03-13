@@ -1,12 +1,14 @@
 ---
-institution: University of Queensland
-tags: [UQ/ECON/7950]
 subject: Research Methods in Economics
+code: ECON7950
 login-link: https://my.uq.edu.au/
 username: s4314971
 password: wELLBEGUN20
 ref-style: APA-7th
 requirements-1: 需在3.12前确认好选择的文章并在discussion留言，并在Google spread里提交
+---
+link: [[UQ#ECON7950]]
+
 ---
 
 ### criterion:
@@ -29,3 +31,13 @@ requirements-1: 需在3.12前确认好选择的文章并在discussion留言，�
 	-   Precise and to the point
 	-   Makes the reader extremely engaged
 ---
+
+### Introduction (not to the article)
+
+### Summary of the Reviewed Article
+
+
+
+### Critique
+
+### Conclusion (not to the article)

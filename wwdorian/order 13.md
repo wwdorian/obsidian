@@ -1,12 +1,13 @@
 ---
-institution: University of South Australia
-tags: [UNISA/ACCT/3002]
-subject: Taxation Law 1
-code: ACCT3002
-login-link: https://my.unisa.edu.au/
-username: xuydy013
-password: 3946Fish%
-ref-style: 
-requirements-1: Part 1（500字）+ Part 2（1000字）
-requirements-2: 第一次先完成part 1
+subject: The Hospitality Experience
+login-link: https://my.griffith.edu.au/
+email: jiani.chen3@griffithuni.edu.au
+username: s5107626
+password: 7921172CjN.
+ref-style: APA-7th
+requirements-1: 请提前5天完成，如有问题请及时沟通
 ---
+link: [[GU#7202THS]]
+
+---
+

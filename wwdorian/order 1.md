@@ -1,6 +1,4 @@
 ---
-institution: Kaplan Business School Australia
-tags: [KBS/MBA/652]
 subject: Strategy and Leadership in Tourism and Hospitality
 login-link: https://elearning.kbs.edu.au/
 username: 131411
@@ -9,8 +7,11 @@ ref-style: UniSA (Harvard)
 requirements-1: at least 12 sources of information and reference
 requirements-2: 正文1500字+300字summary
 ---
+link: [[KBS#MBA652]]
 
-**Executive Summary**
+---
+
+### Executive Summary
 
 As a sector in world economy, the tourism and hospitality industry comprises a large part of the world's economic activity, because of its scale and interconnectedness. This proposal includes a thorough analysis of the current strategic drift in Australia tourism industry by studying the current strategy and leadership risks that the industry is facing, supported by a sytematic overview assisted with data retrieved of the past decade’s plan for tourism development.
 
@@ -20,14 +21,11 @@ However, economic tourism activity in 2020 was hugely affected by bushfires and 
 
 The bushfires and the COVID-19 crises have impacted the tourism industry severely in the last year, leading to all tourism key statistics plummeting, especially disproportionately.
 
-
-
-1. **Current Strategic and Leadership Risks**
+### Current Strategic and Leadership Risks
 
 The previous strategic direction for tourism industry in 2020 entails a plan to reach the goal of tourists overnight spending $115 billion by 2020, for the purpose to offer an opportunity to the world to dive into the Australian lifestyle, with the vision for Australia to be the "most desirable and memorable destination" on Earth (Tourism Australia 2014). For this vision, Australia have implemented the process during which the focus was mostly on these two aspects:
 
 1. Inputs, including human resources, natural resources, government policy, consumer expenditure, and inward investment, to the tourism retailing subsystem and transport subsystem.
-
 2. Influence of society, including media and information technology.
 
 However, there took place a strategic drift. The overly focused attention on bringing in more visitors, while serving the purpose of economic development, missed the point of value which is sustainable development. The natural environment upon which the industry depend would have an overarching effect once crises or disasters happen. These hazards cause social and economical disruption which are two main sources of inputs of the industry.
@@ -40,8 +38,6 @@ Meanwhile, COVID-19 has changed the world in every possible respect, and has had
 
 Considering the relationship between the entire tourism industry and the people who it serves, it is not hard to find that the industry needs to rebuild customer loyalty. The bushfires and coronavirus pandemic are disasters that test the resilience of a system, and the tourism ecosystem made a faulty management decision, and it is commonly agreed that any form of management would have social impacts. For instance, less jobs will be offered, and less resources will be available. Conclusively, management errors lead to strategic drift that eventually results in less competent leadership.
 
-
-
 2. **Deployed Innovative Business Strategies**
 
 In the face of the 2019-2020 bushfires crisis, and as the globally ongoing COVID-19 pandemic evolves, the tourism industry worldwide is fighting for survival, seeking a way out.
@@ -52,9 +48,7 @@ Governments have so far played the central role in the rebuilding process. A sch
 
 The gradual rebuilding work, from protecting the people, to ensuring business survival, has performed better and better along the path. The adoption of technology provides the worldwide industry with vision for a bright prospect, which at the same time is requiring the overall industry to use horizon scanning to detect possible chances of development, which is, in this case, recovery. The situation the entire world is in requires new forms of leadership, and management, especially risk management, which includes risk assessment and reduction.
 
-
-
-3. **Critical appraisal of the key Sustainability Indicators**
+### Critical appraisal of the key Sustainability Indicators
 
 The key to successful leadership in the tourism industry is, in essence, sustainability. As described above, the tourism industry is an environment-sensitive sector in economy, and both environment and economy needs to be sustainable to ensure an acceptable quality of life which is essentially determined by human actions.
 
@@ -70,9 +64,7 @@ Second, generation, which includes all forms of waste. There should be constant 
 
 Third, population stability. Population growth trend in a given area would indicate partly the number of tourists and its growth rate, and population density would have direct impact on the amount of generation produced.
 
-  
-
-4. **Australia Tourism Industry 2030 Strategy**
+### Australia Tourism Industry 2030 Strategy
 
 The mission now is urgent: how to save the world from the shadow that is whirling over the entire globe, in these crises of bushfires and COVID-19 pandemic?
 
@@ -88,7 +80,7 @@ Second, it does not matter what form that leadership takes. Every category of le
 
 Third, empower the workforce. That is, help them perform as meta-designers (Bachinger & Tripković Marković 2020). Empowerment serves as the driving force for intrinsic motivation, and only intrinsic motivation can provide sustainable personal satisfaction that would bring the result of more customer satisfaction, better outcome of customer retention and thus the growing customer loyalty, which is key to restoring Australia's tourism and at the same to regain sustainable environmental and economic health.  
 
-**References**
+### References
 
 Bachinger, M & Tripković Marković, A 2020, ‘Destination management organisations asmeta-designers: Insights from Germany and Montenegro’, _Tourism_ vol. 68, no. 3, pp. 294–307.
 
@@ -116,5 +108,4 @@ Tourism Australia 2014, _Corporate Plan 2019 - 2023_, Tourism Australia, viewed 
 
 ---
 
-![[14730_20210202_1500_MBA652_A3_Amber(zianyuan)_翁巍.docx]]
-
+[[14730_20210202_1500_MBA652_A3_Amber(zianyuan)_翁巍.docx]]
