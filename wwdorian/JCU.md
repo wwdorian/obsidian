@@ -2,8 +2,4 @@
 aliases: [James Cook University]
 ---
 
-## Unsubmitted
-
-### BX2082
-
-1. [[order 14]]
+-   BX2082 - [[order 14]] ^7937f1

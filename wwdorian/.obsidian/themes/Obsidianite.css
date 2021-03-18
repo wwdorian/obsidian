@@ -70,8 +70,8 @@
   --blockquote-border: #4aa8fb;
   --tag-background: #a7b0b3;
   --interactive-accent-rgb: #3dd7fb;
-  --font-family-editor: 'Prociono', 'Cascadia Code';
-  --font-family-preview: 'Prociono', 'Cascadia Code';
+  --font-family-editor: 'Rubik';
+  --font-family-preview: 'Rubik';
   --bg-sub-accent-55: rgba(244, 86, 157, 0.55);
   --bg-accent-55: rgba(14, 210, 247, 0.55);
   --text-highlight-bg: rgba(244, 86, 157, 0.25);
@@ -105,10 +105,12 @@
   --body-font-weight: 450;
 
   /** Font family for hash-tags **/
-  --tag-font-family: 'Prociono', Serif !important;
+  --tag-font-family: 'OperatorMonoSSmLig-Book', 'Glow Sans SC', '华文细黑', 'STXihei', 'PingFang TC',
+    '微软雅黑体', 'Microsoft YaHei New', '微软雅黑', 'Microsoft Yahei', '宋体', 'SimSun',
+    'Helvetica Neue', 'Helvetica', Arial, sans-serif !important;
 
   /** Font specially for codes **/
-  --code-mono-font: 'Cascadia Code';
+  --code-mono-font: 'OperatorMonoSSmLig-Book';
 }
 
 /**-------------------**
@@ -744,7 +746,7 @@ strong kbd {
 .cm-em,
 em {
   color: #bb9af7 !important;
-  font-family: Prociono, Cascadia Code !important;
+  font-family: OperatorMonoSSmLig-Book, Rubik !important;
 }
 
 .cm-em.cm-formatting-em {
@@ -1097,7 +1099,7 @@ pre {
 }
 
 pre[class*='language-']:before {
-  font-family: Prociono, Cascadia Code, Lucida Grande, Lucida Sans Unicode, Tahoma, Serif;
+  font-family: Rubik, Lato, Lucida Grande, Lucida Sans Unicode, Tahoma, Sans-Serif;
   font-style: normal;
   font-weight: 700;
   font-size: 0.6rem;
@@ -1336,7 +1338,8 @@ pre[class*='language-'] {
   color: #ccc;
   background: rgb(40, 41, 54);
   text-shadow: none;
-  font-family: 'Prociono', 'Cascadia Code', monospace !important;
+  font-family: 'OperatorMonoSSmLig-Book', PT Mono, Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono',
+    monospace !important;
   text-align: left;
   white-space: pre;
   word-spacing: normal;

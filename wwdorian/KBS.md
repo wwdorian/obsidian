@@ -2,17 +2,5 @@
 aliases: [Kaplan Business School Australia]
 ---
 
-# QC Pass
-
-### MBA652
-
-1. [[order 1]]
-
-
-### MBA503
-
-1. [[order 2]]
-
-
-
-
+-   MBA503 - [[order 2]] ^000990
+-   MBA652 - [[order 1]] ^a69ed6

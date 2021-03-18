@@ -2,8 +2,4 @@
 aliases: [University of South Australia]
 ---
 
-## QCing
-
-### ACCT3010
-
-1. [[order 10]]
+-   ACCT3010 - [[order 10]] ^d0309b

@@ -2,8 +2,4 @@
 aliases: [[University of Melbourne]]
 ---
 
-## QC Pass
-
-### DEVT90053
-
-1. [[order 8]]
+-   DEVT90053 - [[order 8]] ^234e51

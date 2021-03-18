@@ -2,8 +2,4 @@
 aliases: [University of Queensland]
 ---
 
-## Unsubmitted:
-
-### ECON7950
-
-1. [[order 9]]
+-   ECON7950 - [[order 9]] ^e425d3

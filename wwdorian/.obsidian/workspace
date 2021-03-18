@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80b01db782cb2b1a",
+        "id": "9393aa192d76e19b",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "order 16.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "order 16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0121879577637
+    "width": 269.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "3daf49910a155d14",
@@ -124,7 +129,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "order 16.md"
+              }
             }
           },
           {
@@ -143,8 +150,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5e986aa7c23a4c76",
@@ -156,6 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "order 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,18 +175,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.97711181640625
+    "width": 310.97711181640625,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Order Workload MOC.md",
-    "order 11.md",
-    "order 9.md",
-    "what does the image imply.md",
-    "order 7.md",
-    "order 8.md",
-    "Resources/Screenshot 2021-03-05 at 7.51.33 PM.png",
-    "Resources/session 2 answers - in case sync error occurs.md",
-    "order 6.md",
-    "order 5.md"
+    "order 16.md",
+    "001 Orders MOC.md",
+    "000 Home.md",
+    "020 Concepts MOC.md",
+    "030 Writings MOC.md",
+    "literature is like bodies thus can help understand bodies.md",
+    "contemporary problems.md",
+    "body is undefinable.md",
+    "bodily expressions embody complexity.md",
+    "020 Resources/Journals/2021-02-25-02-38-01.md"
   ]
 }

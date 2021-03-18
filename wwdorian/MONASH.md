@@ -2,8 +2,5 @@
 aliases: [Monash University]
 ---
 
-## QC Pass
-
-### BEX5601
-
-1. [[order 11]]
+- BEX5601 - [[order 11]] ^ae1c2e
+-   PSY2071 - [[order 15]] ^3b0f6c
