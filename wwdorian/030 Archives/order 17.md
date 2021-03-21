@@ -6,7 +6,6 @@ password: ZTz.8065
 ref-style: Griffith (APA7th)
 requirements-1: 
 ---
-status: #qcpass  
 link: [[GU#^f74244]]
 
 [[Griffith (APA 7th).pdf]]

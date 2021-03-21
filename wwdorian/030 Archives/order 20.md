@@ -11,7 +11,6 @@ requirements-4: 2.why
 requirements-5: 参考 Australia’s Supply Chain Resilience Initiative, https://www.futurefoodsystems.com.au/byte/australias-supply-chain-resilience-initiative-survey-closes-friday/
 requirements-6: 参考 Post pandemic supply chain diversification under way, https://www.afr.com/politics/federal/post-pandemic-supply-chain-diversification-under-way-20201118-p56fqj
 ---
-status: #qcpass
 link: [[MQ#^e9240e]]
 
 ---

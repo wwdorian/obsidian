@@ -7,7 +7,6 @@ ref-style:
 requirements-1: 完成500字演讲稿+5页PPT
 requirements-2: industry写social media and digital marketing，要结合课件理论写
 ---
-status: #qcpass
 link: [[UCA#^9e9429]]
 
 ---

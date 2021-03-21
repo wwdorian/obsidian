@@ -8,7 +8,6 @@ requirements-1: two summary (500字+500字）Only 1 submission in 4 weeks (once 
 requirements-2: one reflective writing（1500字）
 requirements-3: 第一次先完成 week2 reading 的 summary 500 字
 ---
-status: #qcpass
 link: [[UniSA#^d0309b]]
 
 ---

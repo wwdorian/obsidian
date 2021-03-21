@@ -6,7 +6,6 @@ password: Xy83320414!
 ref-style: Chicago
 requirements-1: reading 和video 请登录阅读
 ---
-status: #qcpass
 link: [[SUT#^7513c7]]
 
 ---

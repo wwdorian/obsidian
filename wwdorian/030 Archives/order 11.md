@@ -6,7 +6,6 @@ password: Leftuouttorot430!
 ref-style: APA-7th
 requirements-1: weekly essay 1 开放北京时间 03.08.05am - 03.12.02pm，无时间限制
 ---
-status: #qcpass
 link: [[MONASH#^ae1c2e]]
 
 ---

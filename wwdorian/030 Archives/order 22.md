@@ -6,7 +6,6 @@ password: Sszt3845511
 ref-style: RMIT (Harvard)
 requirements-1: 
 ---
-status: #submitted  
 link: [[RMIT#^e467ab]]
 
 ---
@@ -18,7 +17,7 @@ link: [[RMIT#^e467ab]]
 
 ### Introduction (1-2 sentences)
 
-Corporate Social Responsibility (CSR) has been over at least the last two decades a central topic in sustainability economics, and the term has been widely used by professionals in the workplace {Bose, 2020 #3}. This essay aims to answer the question pertaining to CSR in terms of international business and society, and argues that CSR is positively relevant to both of them, even when conflicts occur between the two.
+Corporate Social Responsibility (CSR) has been over at least the last two decades a central topic in sustainability economics, and the term has been widely used by professionals in the workplace {Bose, 2020 #3}. This essay aims to answer the question pertaining to CSR in terms of international business and society, and argues that CSR is positively relevant to both of them, even when conflicts occur between the two {Sardana, 2020 #130}.
 
 ### A Definition of CSR, and why
 

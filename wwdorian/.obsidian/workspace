@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9393aa192d76e19b",
+        "id": "55a39910a00dcf72",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "order 16.md",
+            "file": "order 25.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reference",
+                "query": "tag:#submitted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "order 16.md",
+                "file": "order 25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "order 16.md"
+                "file": "order 25.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "order 16.md",
+                "file": "order 25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +179,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "order 16.md",
+    "order 25.md",
+    "SUT.md",
     "001 Orders MOC.md",
-    "000 Home.md",
-    "020 Concepts MOC.md",
-    "030 Writings MOC.md",
-    "literature is like bodies thus can help understand bodies.md",
-    "contemporary problems.md",
-    "body is undefinable.md",
-    "bodily expressions embody complexity.md",
-    "020 Resources/Journals/2021-02-25-02-38-01.md"
+    "030 Archives/order 21.md",
+    "order 23.md",
+    "order 18.md",
+    "030 Archives/order 22.md",
+    "030 Archives/order 20.md",
+    "order 19.md",
+    "030 Archives/order 17.md"
   ]
 }

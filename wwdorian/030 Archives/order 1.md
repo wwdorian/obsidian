@@ -7,7 +7,6 @@ ref-style: UniSA (Harvard)
 requirements-1: at least 12 sources of information and reference
 requirements-2: 正文1500字+300字summary
 ---
-status: #qcpass
 link: [[KBS#^a69ed6]]
 
 ---

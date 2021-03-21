@@ -7,7 +7,6 @@ password: wELLBEGUN20
 ref-style: APA-7th
 requirements-1: 需在3.12前确认好选择的文章并在discussion留言，并在 Google spread 里提交
 ---
-status: #qcpass
 link: [[UQ#^e425d3]]
 
 ---
