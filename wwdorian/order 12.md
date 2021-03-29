@@ -6,10 +6,10 @@ password: 13622867101djtS
 ref-style: 
 requirements-1: 
 ---
-status: #submitted  
 link: [[RMIT#^ee5f15]]
 
 ---
+
 - [x] A profile page with your **name, student number and an avatar (or photo)  **
 - [x] **Table of contents** outlining week 1 to 4 with activity titles and page numbers.  
 - [x] Please **allow space** for subsequent weeks for your assessment task 1.2  

@@ -8,8 +8,6 @@ requirements-1:
 ---
 link: [[GU#^f74244]]
 
-[[Griffith (APA 7th).pdf]]
-
 ---
 
 (2003). Impact of Tourism: Thailand [Video file]. TV Choice. Retrieved March 16, 2021, from Kanopy.

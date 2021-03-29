@@ -105,7 +105,7 @@
   --body-font-weight: 450;
 
   /** Font family for hash-tags **/
-  --tag-font-family: 'Prociono', Serif !important;
+  --tag-font-family: 'Cascadia Code' !important;
 
   /** Font specially for codes **/
   --code-mono-font: 'Cascadia Code';
@@ -713,6 +713,7 @@ pre.HyperMD-header.HyperMD-header-6 {
 strong {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  font-family: 'Cascadia Code';
   padding: 0 0.1rem;
   color: #7aa2f7;
   background-color: #7aa2f7;
@@ -744,7 +745,7 @@ strong kbd {
 .cm-em,
 em {
   color: #bb9af7 !important;
-  font-family: Prociono, Cascadia Code !important;
+  font-family: Cascadia Code !important;
 }
 
 .cm-em.cm-formatting-em {

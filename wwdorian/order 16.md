@@ -7,10 +7,7 @@ ref-style: Griffith (APA 6th)
 requirements-1: 两篇Article Summary，各 600 words
 requirements-2: Articles要求发布时间在Jan 1,2020 - Feb 1, 2021
 ---
-status: #submitted  
 link: [[MQ#^5710e3]]
-
-[[Grirrith (APA 6th).pdf]]
 
 ---
 
