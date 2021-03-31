@@ -43,7 +43,7 @@
 | [[order 27]] |                 `16395_20210326_2000_21636_A1_Kate(icecold)_wwdorian`                  |   2000   | 03.26 24:00 | 03.22-03.28 |
 | [[order 28]] |         `16364_20210328_2000_MGMT6051/MGMT6008_A1_Skye(jiangyida28)_wwdorian`          |   2000   | 03.28 24:00 | 03.22-03.28 |
 | [[order 29]] |                  `16538_20210327_500_57041_A1_Amber(elbelb)_wwdorian`                  |   500    | 03.27 24:00 | 03.22-03.28 |
-| [[order 30]] |                 `15991_20210329_1500_5901LHS_A3_Lulu(Mandy)_wwdorian`                  |   1500   | 03.29 24:00 |             |
+| [[order 30]] |                 `15991_20210329_1500_5901LHS_A3_Lulu(Mandy)_wwdorian`                  |   1500   | 03.30 22:00 |  |
 | [[order 31]] |                  `16281_20210402_1701QCA_A1_Lulu(jessi512)_wwdorian`                   |   1500   | 04.02 24:00 |             |
 | [[order 32]] |            `16594_20210331_0_MKTG1025_A1-test3(10MCQ)_Amber(WC23)_wwdorian`            | 考试 500 | 03.31 15:00 |             |
 | [[order 33]] |      `16607_20210329_1250_ARIN2620_take home exercise 1_Sisley(joyceia)_wwdorian`      |   1250   | 03.29 12:00 | 03.29-04.04 |
@@ -52,6 +52,7 @@
 | [[order 36]] |             `15745_20210410_2000_2230THS_A1+EXCEL_Carol(袁-yisa)_wwdorian`             |   2500   | 04.10 20:00 |             |
 | [[order 37]] |            `16068_20210410_2000_2230THS_A1+excel_Carol(袁-aiden)_wwdorian`             |   2500   | 04.10 20:00 |             |
 | [[order 38]] |               `16620_20210517_4200_BUSM1734_A2_Sisley(shi218)_wwdorian`                |   4200   | 05.17 24:00 |             |
+| [[order 39]] |                   `16608_20210405_APG5397_A2_Dora(Jolyne)_wwdorian`                    |   2600   | 04.05 23:00 |             |
 
 
 

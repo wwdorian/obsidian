@@ -6,7 +6,6 @@ password: 13296856798YiYi
 ref-style: 
 requirements-1: reading 请登录阅读
 ---
-status: #submitted  
 link: [[RMIT#^7d2841]]
 
 ---

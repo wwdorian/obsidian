@@ -15,7 +15,7 @@ link: [[RMIT#^642b31]]
 ---
 
 Objectives:
-1. appraisal of risk problems, in particular business risk situations, from a multi-dimensional perspective.
+1. appraisal of risk **problems**, in particular business risk situations, from a multi-dimensional perspective.
 2. reinforce the notion that risk is context-specific.
 3. risk management is predicated on a socially constructed reality of the world.
 4. a holistic approach.
@@ -106,11 +106,15 @@ Based on these findings for a deeper and more thorough research for a better way
 
 #### 1.2 Picturing the Problem
 
+jpg 1
+
 ---
 
 ### Phase 2 Retrospection
 
 #### 2.1 Diagram Modelling
+
+jpg 2
 
 ---
 
