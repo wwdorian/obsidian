@@ -1,14 +1,13 @@
 ---
-subject: Interpreting Tourism Management Information
-login-link: https://my.griffith.edu.au/
-username: S5155385
-password: cyxxzz11ZZ
+subject: Risk Analysis and Assessment (2110)
+login-link: https://www.rmit.edu.au/students
+username: s3452444
+password: Md941002!
 ref-style: 
-requirements-1: 需要完成 2000 字 Qualitative Report + EXCEL
-requirements-2: 这学期 lecture 更新至 week4 可参考去年的 lecture + workshop
+requirements-1: 要求 12 页约 4200 字
 ---
 status: #unsubmitted 
-link: [[GU#^c9829d]]
+link: [[RMIT#^c590ff]]
 
 ---
 

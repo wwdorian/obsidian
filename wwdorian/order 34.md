@@ -1,13 +1,113 @@
 ---
-subject: Tourism and Hotel Economic Analysis
-login-link: https://my.griffith.edu.au/
-username: s5153464
-password: Xiaoxiaoti1997629
-ref-style: 
-requirements-1: 需要完成 1000 字 Analysis of economic reports
+subject: Business Research Design
+login-link: https://www.rmit.edu.au/students
+username: s3493112
+password: 1529ldm@boo
+ref-style: RMIT Harvard
+requirements-1: 
 ---
-status: #unsubmitted 
-link: [[GU#^9171b3]]
+status: #submitted   
+link: [[RMIT#^609163]]
 
 ---
 
+1. Introduction, 150 words
+	1. **To the report**, not to the company.
+	2. Relevant background of the report.
+	3. Aim of the report.
+	4. The overview of the structure of the report.
+2. Industry and Company, 700 words
+	1. Introduction to the industry.
+	2. Introduction to the particular company you are going to focus on in your assignment.
+	3. Provide necessary and detail of the company.
+	4. **Justify why** you have made this choice.
+3. Research Problem Identification and Definition, 1500 words
+	1. Provide a brief overview/elaboration of the concept of Research Problem, supported by academic literature.
+	2. Linking the information about the company above, start to introduce the general problem that the company is facing.
+	3. Then, define the research problem.
+		1. Clearly justify why this is a problem, supported by academic references and sources.
+	4. Consider the below:
+		1. Is the project researchable, given the time, resources and availability of data?
+		2. Will you be able to propose a research design that helps to answer the problem defined above?
+		3. Will the results from the research project be of interest to the team of business executives, members of a company’s Board or funding bodies?
+		4. Will the project contribute to your career journey?
+4. Research Problem Statement/Objectives, 300 words
+	1. The objectives of the research should be:
+		1. stated in a formal research statement.
+		2. described as precise as possible.
+		3. brief but specific.
+	2. Provide the research question/s and the hypothesis from the objectives.
+	3. **Justify why** they are interesting and important using relevant literature.
+5. Plan for the Research Plan, 200 words
+	1. Provide a brief plan of what you are going to propose considering the Research objectives.
+	2. Consider this section as the plan for your plan. This does not have to be perfect as it is only a start of what you are going to propose fully in Assessment 3.
+	3. The plan should consist of your very rough plan of:
+		1. What literature you will be looking at?
+		2. What data collection methods you will be using?
+		3. What is the unit of analysis of this research project?
+		4. What data collection methods you will be using?
+		5. Have you considered the company’s resources (time, people and money) to conduct this research?
+	4. Provide a brief justification of the points made above.
+6. Conclusion, 150 words
+	1. Emphasise the business significance of this research project and its likely findings
+
+---
+
+## Introduction
+
+This report is intended to investigate the influence that Corporate Social Responsibility (CSR) accounting and reporting could have upon the sustainable development of the tourism and hospitality industry, and particularly the Australian tourism, in the background of the COVID-19 pandemic that inflicted Australia and the entire world in 2020. This context is chosen with specific consideration of the risk situation imposed upon the tourism industry by the COVID-19 pandemic, which has caused several decline in revenue as well as in generating profits, for example, 2020 has seen a huge decline in domestic overnight travel for nearly $28.8 billion from January to September {Australian Trade and Investment Commission, 2020 #793}. Such losses were not common and should raise concern for future development of the tourism industry.
+
+This report is, thus, implemented, and the structure of it includes:
+1. An overview of the tourism industry, and a company which is chosen to be examined as an exemplar to investigate certain factors that were impacted by the COVID-19 pandemic.
+2. A literature review that is dedicated to Corporate Social Responsibility accounting and reporting, and sustainable tourism, as well as their definitions. 
+3. A process of research problem identification, which entails identifying a set of specific problems, defining them, and implementing a possible solution for a later research plan.
+4. Conclusions that are drawn from the report.
+
+
+## The Tourism Industry, And the Chosen Company in the Industry
+
+The tourism industry is one of the main sources of national revenue, and is also one of the largest industries in Australia. It was reported that there were about over 65o thousand people working in the tourism industry directly, in 2019. However, the COVID-19 pandemic in 2020 had stricken the tourism industry, which is in  a manner that is unpredictable, and has caused huge decline in the revenue of the industry {Australian Trade and Investment Commission, 2020 #793}. As a consequence, the Gross Domestic Product (GDP) in 2020 has taken a headlong plunge into the abyss with its growth reported to be -17.6% {Hughes, 2021 #795}.
+
+That the tourism industry has become one of the largest industries in Australia is due to multiple reasons, but the foremost reason would be that the tourism industry is directly linked with many other industries. Tourism, as an activity that people carry out for spending leisure time, for business trip, or for visiting friends and families, has to provide consumers with both products and services that meet their expectations, which means both customer engagement (CE) and customer experience (CX), and is thus inherently pursuing customer repurchase and revisit {Rather, 2021 #614}. This suggests that multiple industries would have to blend with the tourism industry, each of which as one provider of products or services. For instance, the food industry that is included in the food supply chain, the hotel industry that is included in the accommodation supply chain, and many others. Those industries are all incorporated into the tourism industry, providing numerous services and products in the overall value chain of the tourism industry. What is unfortunate is the COVID-19 pandemic that had impacted, and is still now impacting the world economy, has in the last year caused massive decline in the tourism industry. As its innate nature, the tourism industry is liable to a myriad of factors, including natural disasters, if to regard COVID-19 pandemic as one of such. Therefore, it would a must to identify problems in the current tourism industry, and more specifically, the problems which would affect the performance of tourism in terms of sustainability.
+
+In appraising the sustainability of the tourism industry, it would be a prerequisite to investigate a company in the industry, as an exemplar to illustrate current problems in a manner that is more detailed and more oriented. The company that is chosen is Intrepid Group Limited (IGL), also known as Intrepid Travel. Intrepid Group Limited is a public unlisted company that operates in the tourism industry, in which the company generate most of their revenue through sales and organisation of tours {IBISWorld, 2019 #796}. The company made itself one of the global travel operators in the tourism industry, and has operated under 5 brands. Moreover, IGL has made itself certified as the world's largest travel B Corp in 2018 {Intrepid Group Limited,  #798}. Incorporated in June, 2008 in Australia, the company is also in ally with other travel organisations around the world {IBISWorld, 2019 #796}.
+
+The company conducts its business mainly in the Travel Agency and Tour Arrangement Services sector in Australia an on a global scale, providing travel information, services related to reservation and booking for transport, accommodation and tourist attractions, both for individual tourists and tourists for business purposes {IBISWorld, 2019 #796}. Its major competitors in the tourism market includes Hays Specialist Recruitment (Australia) Pty Limited, Flight Centre Travel Group Limited, and WorkPac Pty Ltd, to name a few {IBISWorld, 2019 #796}.
+
+There are several reasons as to why the tourism industry, as well as the company, Intrepid Group Limited, have been chosen for the study in this report. To begin with, the global economy in the tourism industry sector has been impacted in revenue and profitability in a negative way; the blow that was brought by the COVID-19 pandemic has not be a cheerful news for the industry. And, with regard to Australia, the bushfires that happened in the first quarter of 2020 was still influencing tourists' confidence on the tourism industry in Australia, on its resilience and sustainability. Secondly, then, when it comes to resilience and sustainability, risk management as one of the elements in building them would require much attention since it directly influences many aspects of operations of a company. In such an environment of the global tourism market, the importance of the CSR would build up a company's social image and reputation. Because its accounting and reporting is in direct contact with a company's activities carried out in promoting sustainability, CSR would be able to better a company's strength in terms of risk management. The company is chosen with this regard, too. The CEO of IGL has declared the company's commitment to a more sustainable tourism industry, and the company, as one operating in this industry, have been affected by the COVID-19 pandemic. The sustainability the company promotes has been approved officially with the company becoming a certified B Corp {Intrepid Group Limited,  #800}. In such a context, the company is chosen.
+
+## Research Problem Identification, and Definition
+
+### Overview
+The research problem is identified in the spirit of strengthening the tourism industry with regard to its resilience and sustainability, in Australia which could be incorporated then to the tourism industry on the global scale. There has been development in the Australian tourism industry in the last decade, which was monumental, but all has been changed after the spread of the COVID-19 pandemic {Pham, 2021 #784}. The Australian economy has shrunk, and the tourism industry was hit with a blow. There are, then, incoming challenges that the industry must face, as to restoring, reviving, and sustaining the tourism industry in a positive loop of balance between the purpose of sustainability and profitability {Chang, 2020 #662}.
+
+It is with this consideration that the CSR accounting and reporting is chosen to be studied. CSR has been an increasingly important topic in the business environment, although the definitions of it vary and has been constantly contested {Sheehy, 2015 #115}. For nearly all companies, especially the large ones that operate in the global economy, CSR has been crucial in not only factually contributing to the global sustainability of the natural environment, but also in promoting these companies' social image, reputation, and legitimacy {Bai, 2019 #577}. Therefore, when it comes to the tourism industry, CSR has made itself a central part of business operations, in that it provides the tourism industry not only with growing reputation, but also with actual benefit in generating revenue by strengthening the resilience and sustainability of the industry's entire value chains, for example, the supply chains {Gangi, 2019 #113}.
+
+### The Company in Relation with The Concepts
+When it comes to tourism, however, the current literature has shown that the idea of sustainable tourism has been discussed even before the millennium {Butler, 1999 #575}. With many researches in the field leading the way, CSR has gained its status increasingly with the growing concern for the sustainable development of tourism. This is not uncommon, especially after the COVID-19 pandemic in 2020 and in 2021 still. CSR stresses upon the importance of paying more attention on the importance of stakeholders, even when the main objective of a company is to raise its revenue and to better its profitability, which indicates attention on shareholders {Dhaliwal, 2014 #759}. The two ideas, stakeholders and shareholders, are different. Stakeholders refer to all the elements in business operations that would be responsible for, as well as more crucially be affected by a company's management. And with the COVID-19 pandemic has caused such decline in economy as illustrated above, the importance of stakeholders could not be stressed more. Moreover, there are evidences that suggest CSR would influence a company's capability to generate value in terms of its financial performance {Gangi, 2019 #113}. These combined create a demand for companies in the tourism industry to rethink its strategies with considerations of CSR accounting and reporting, in this special context of the COVID-19 pandemic. Furthermore, such a situation should be better perceived as a risk situation, even though it is unforeseeable. That requires, then, risk management strategies, risk situation analysis, risk mitigation methods and models, and more. And CSR would be one part of them. That leads to the discussion about the potential benefits and effects that CSR might bring upon the development of the industry.
+
+The company, IGL, then, is chosen to be studied. First, the company has been officially approved as a certified B Corp which stresses upon a company's social and environmental dedication and actual actions {Intrepid Group Limited,  #800}. With such an achievement, the company is deemed trustworthy for studies in the field of sustainable tourism. Secondly, the company is in the tourism industry, which suggests it has also received the huge impact of the COVID-19 pandemic. It is also reported that the total trip expenditure generated by international tourists to Australia decreased from above 40 billion Australian dollars to only over 30 billion {Hughes, 2021 #795}. This decrease of the number of tourists would have projected to all the respects of the tourism industry in Australia, and the company would not be an exception. 
+
+With these information above being mentioned, the company now faces several problems which are deemed to be crucial for its future operations and developments in the tourism industry. First, the understanding of the current risk situation that is contributed by the COVID-19 pandemic. Second, the implications made by such a situation, with regard to its impact on the business operations of the company in the market. Third, the potential benefit of CSR for the company in terms of its social reputation and of its revenue and profitability. The fourth problem is how the company could incorporate CSR accounting and reporting to its business operations, and its implementation.
+
+### Research Problem Definition
+
+Supported by the information and theories above, the research problem was targeted and identified. Therefore, the definition of the research problem should be: what effects could CSR accounting and reporting have on the overall and more specifically, the financial performance of the company, IGL, in terms of sustainable development, and of the the sustainable tourism industry, in the background of the entire industry and the national economy being lashed by the COVID-19 pandemic?
+
+This problem is raised with several concerns. First, the tourism industry contributes to a large extent to the Australian economy. As one of the largest sectors in the Australian economy, the tourism industry needs special attention. Secondly, the sustainability of the tourism industry has been a central topic discussed by numerous articles and on social media by the people of Australia, after the bushfires that took place in 2020, and the COVID-19 pandemic even exacerbated it as well as the environment. The economic recession has been deepening, and a tidal wave of job losses has been seen in all section of the Australian economy. Thirdly, in such a context, the social responsibility of industries and corporations are more and more raised as a national and global concern in the spirit of future sustainability of economies and the planet. Fourthly, the CSR accounting and reporting would demonstrate a company's devotion and dedication in terms of its social responsibility it bears. Furthermore, the company, IGL, has been impacted too by the COVID-19 pandemic as well as the bushfires. The impact it has received requires regaining customer confidence in the company and in the industry, and CSR accounting and reporting would be able to foster and facilitate it. At last, sustainable CSR accounting and reporting would increase the company's abilities to generate more revenue and of furtherance of its profitability, thus to stimulate the tourism industry and the national economy as a whole.
+
+This report and research would be viable since it is given specific context and a particular company in a distinctive industry that is deeply linked with other industries, as well as sectors in the Australian economy, provided with information that is accessible in a specific duration of time, supported by innumerable open data and articles that are committed to investigate the impacts and implications of the COVID-19 pandemic, and many of them are of open access. This research would be also of interest to the business executives of the chosen company since it provides the company with possible solutions for the current drastic risk situations which is complex to the extent to which it requires the entire tourism industry to act swiftly. The research would also be of benefit to the stakeholders of the company since it offers them a possible plan for the salvage and retention of their monetary assets.
+
+## The Research Problem Statement
+
+This research intends to find out the potential that sustainable CSR accounting and reporting have on the performance of the tourism industry, in the context of the industry having been lashed by the COVID-19 pandemic with addressing the 2020 bushfires, and has chosen a specific company, IGL, for carrying out its investigation. The objectives is to find out the sections that have been impacted by the COVID-19 pandemic, to determine the losses of the tourism industry of Australia, which could be later used as an exemplar for investigation of the global tourism industry, and the possible solutions for it using CSR techniques and sustainable CSR accounting and reporting. This research would hypothesise that sustainable CSR accounting and reporting would have positive effects upon the company's performance with respect to finance and others, and that the tourism industry would need to implement CSR processes into its entire value chain, as well as that the consumer confidence could be regained and re-strengthened by the industry's devotion to promote sustainable economies.
+
+This research would be of interest and of importance, in that it enlarges and enriches the current literature with a state-of-art review of current risk situations that every country in the world is facing, and that it provides more evidences for the development of theories as to sustainability and the tourism industry, in which the importance of sustainability could not be further stressed {Baumgärtner, 2010 #35}. The research would be of benefit for the improvement of economies around the world, since the tourism industry in gaining increasing importance in the world economy and in many countries' economy, in the background that sustainable economics is gaining more value and volume {Baumgärtner, 2010 #2}.
+
+## Research Plan
+
+This research would be divided into several sections. First, the research would use relevant literature to base itself with a sound theoretical framework, including literature in the field of CSR, sustainability, and the tourism industry. Then, the research would inquire the current risk situation imposed upon the Australian economy, and the tourism industry in related to the COVID-19 pandemic, and try to find out the potential links among these factors. Thirdly, the research would investigate the potential benefits that CSR accounting and reporting would have upon the current risk situation. Thirdly, the research would investigate the possibility that CSR accounting and reporting could be used and implemented into the management and business operations of the chosen company, and investigate further the implications.
+
+## Conclusion
+
+This report is for several purposes that are directly and indirectly linked with the current risk situations brought by the COVID-19 pandemic on the tourism industry, and the chosen company, especially on their value chains, in term of their resilience and sustainability. This research would implement the current risk mitigation management processes by incorporating sustainable CSR accounting and reporting, and provide viable risk mitigation plans. This research would be of interest of the chosen company and the given industry, and would also enrich the current literature in relation to these sectors of economy. This research could be used for further investigation of potential risks and their solutions in terms of providing more evidences and insights into the current situation.

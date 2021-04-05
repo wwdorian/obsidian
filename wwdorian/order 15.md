@@ -34,10 +34,10 @@ Is there any notable family history concerning Olivia’s parent’s upbringing?
 - [x] Begin this section by restating the referral reason
 - [x] then summarise the most pertinent findings from the assessment. 
 - [x] This is the place to offer your integration of history and results from the two assessments (DASS and RSES)
-- [ ] to give an explanation of Olivia’s attachment style 
-- [ ] based on her history and presentation. 
-- [ ] No new information from the case study should be introduced here. 
-- [ ] (<200 words)
+- [x] to give an explanation of Olivia’s attachment style 
+- [x] based on her history and presentation. 
+- [x] No new information from the case study should be introduced here. 
+- [x] (<200 words)
 
 Olivia is a 23-year-old woman being transferred by herself to the university counsellor, worrying her girlfriend May might break up with her. From the assessments, Olivia was born in a family where her parents weren't forming a secure environment for her growth, and after their separation Olivia was living with her mother who was diagnosed with depression making she must look after herself, leading her later dependent on others' attention to validate herself, which could explain her SRES results of being low self-esteemed, as well as her constant contact with her mother in university. Her social and romantic relationships have been unsteady, her life not centred towards a goal, and her personality is currently not unified. These explain her worries of her girlfriend's possible leaving in that the only validations she received were from her grade and May's support. In all, she belongs to the Anxious-Ambivalent attachment style, which explains her seemingly nonchalance in the interview towards the topic of her worries, and which explains her small social circle since what she really looks after is a caregiver, in this case to be May.
 

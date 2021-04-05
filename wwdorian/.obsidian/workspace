@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "To all who matter..md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "To all who matter..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0121879577637,
-    "collapsed": true
+    "width": 269.0121879577637
   },
   "right": {
     "id": "3daf49910a155d14",
@@ -129,16 +124,6 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "To all who matter..md"
-              }
-            }
-          },
-          {
-            "id": "5853732cace77a4b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
               "state": {}
             }
           },
@@ -147,6 +132,14 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f5b66fd134d415f9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {}
             }
           }
@@ -162,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To all who matter..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,15 +171,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
-    "0000 Projects.md",
-    "0001 Orders MOC.md",
-    "030 Archives/order 9.md",
-    "030 Archives/order 10.md",
-    "order 30.md",
-    "order 19.md",
-    "RMIT.md",
-    "order 39.md"
+    "020 Resources/2.svg",
+    "020 Resources/2021-02-09-08-12-00.md",
+    "020 Resources/Templates/order.md",
+    "020 Resources/Templates/Template-Daily Note.md",
+    "020 Resources/Templates/Template-Back Matter.md",
+    "020 Resources/PDFs/reverse outline.pdf",
+    "020 Resources/Images/2.png",
+    "020 Resources/Images/1.jpg",
+    "020 Resources/Journals/2021-02-09-08-12-00.md",
+    "2000 Archives/order 1.md"
   ]
 }

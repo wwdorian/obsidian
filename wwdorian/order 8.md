@@ -36,7 +36,3 @@ I would really like to ask the following questions:
 2.  What is the result of this development? What can it bring not only to the economy as a synonym for country, but also to the people?
 
 3.  Is it possible to reform Tanzania's economy? From what angles?
-
----
-
-![[Screenshot 2021-03-05 at 7.51.33 PM.png]]

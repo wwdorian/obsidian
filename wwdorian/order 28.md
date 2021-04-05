@@ -9,7 +9,6 @@ requirements-2: A1 具体讲解参看 MGMT6051_6008_Research_planning_writing (V
 requirements-3: 视频讲解已提供 参看 Overview of case study report.mp4 + Hints and tips on the case study report.mp4
 requirements-4: 重点看 week3 课件
 ---
-status: #submitted  
 link: [[MQ#^564ca1]]
 
 ---

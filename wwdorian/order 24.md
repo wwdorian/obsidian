@@ -6,7 +6,6 @@ password:
 ref-style: 
 requirements-1: 没有课件资料 根据PDF文档完成 2000 字 qualitative research paper
 ---
-status: #submitted  
 link: [[CITYU#^ac37be]]
 
 ---

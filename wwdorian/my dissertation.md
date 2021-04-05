@@ -1,11 +1,25 @@
 
 
-# Research on the Protagonist's Gender Identity in Virginia Woolf's Orlando, From a Foucauldian Perspective on Sex and Body
+# Research on the Protagonist's Gender Identity in Virginia Woolf's Orlando, From a Foucaultian Perspective on Sex and Body
 
 ### Abstract
 
 ### Introduction
 
-### The Book and the Protagonist
+Featuring a meticulously constructed theoretical framework, this research is carried out in order to enrich the current study of literature and gender, addressing the prevalent debate on gender identity, by incorporating a stance derived from Michel Foucault's theories on sex and body into the discussion and investigation on the eponymous, male-to-female protagonist of Virginia Woolf's widely known and broadly studied work, *Orlando: A Biography*. This study aims 
 
-*Orlando: A Biography (Orlando)* was written from the third perspective, which gives the reader a sense of truthfulness. The book, however, is a fantasy story, partly, since the eponymous protagonist lives for over four hundred years, who also had undergone a miraculous sex change during that period. But, according to Virginia Woolf herself, the book is also partly a biography, which is intended to be fictional, of her friend and lover, Vita-Sackville West {Tate, 2020 #28}.
+#### Author, Book, and The Protagonist
+
+#### Foucault, His Ideas on Sex and Body
+
+### Literature as Textualisation of "The Body"
+
+#### Textualisation as A Function of Literature
+
+#### "The Body", Textualisation. An Imperative Narrative
+
+### Subjectivity and Objectivity towards "The Body" and Genders
+
+value laden.
+There is an imagined observer, a watcher, like the CCTVs that are all around us nowadays. Panopticon.
+Body is always important. Body is content. It is physical. It is perceivable. Or is it?

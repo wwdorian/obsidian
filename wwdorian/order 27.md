@@ -6,7 +6,6 @@ password:
 ref-style: 
 requirements-1: 两个 topics 中任选一个写 2000 字 essay 需要 10 条 references 不计入字数
 ---
-status: #submitted  
 link: [[UTS#^ad041f]]
 
 ---
