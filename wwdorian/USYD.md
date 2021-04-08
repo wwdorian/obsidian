@@ -2,4 +2,4 @@
 alias: [University of Sydney]
 ---
 
-- ARIN2620 - [[order 32]] ^d1ced3
+- ARIN2620 - [[0032]] ^d1ced3

@@ -6,9 +6,6 @@ Personally, I would like to cultivate all those concepts which I can utilise to 
 
 This is also exactly why zettelkasten works so well. Emergence. New understandings emerge as they evolve in the system with connections to many other concepts that may or may not in the same or similar fields as they are.
 
-Connect ideas | Make leaps of insights | Think conceptually
-    -   [[1001 Concepts MOC|Concepts MOC]]
-
 -   Be a polymath | Think across disciplines
     -   [[1002 Great Books of the Western World MOC|GBWW MOC]]
 

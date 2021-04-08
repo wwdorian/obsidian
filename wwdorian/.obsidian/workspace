@@ -6,10 +6,12 @@
       {
         "id": "9393aa192d76e19b",
         "type": "leaf",
-        "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "0035.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0035.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0121879577637
+    "width": 269.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "3daf49910a155d14",
@@ -124,6 +128,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "0035.md"
+              }
+            }
+          },
+          {
+            "id": "5853732cace77a4b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           },
@@ -131,19 +145,20 @@
             "id": "5dd1fea10d49c673",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "empty",
               "state": {}
             }
           },
           {
-            "id": "f5b66fd134d415f9",
+            "id": "54427594f3b833f1",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "5e986aa7c23a4c76",
@@ -155,9 +170,12 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0035.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,16 +188,17 @@
     "width": 310.97711181640625,
     "collapsed": true
   },
+  "active": "9393aa192d76e19b",
   "lastOpenFiles": [
-    "020 Resources/2.svg",
-    "020 Resources/2021-02-09-08-12-00.md",
-    "020 Resources/Templates/order.md",
-    "020 Resources/Templates/Template-Daily Note.md",
-    "020 Resources/Templates/Template-Back Matter.md",
-    "020 Resources/PDFs/reverse outline.pdf",
-    "020 Resources/Images/2.png",
-    "020 Resources/Images/1.jpg",
-    "020 Resources/Journals/2021-02-09-08-12-00.md",
-    "2000 Archives/order 1.md"
+    "0035.md",
+    "0001 Orders MOC.md",
+    "0030.md",
+    "0041.md",
+    "0034.md",
+    "0046.md",
+    "0049.md",
+    "0031.md",
+    "0033.md",
+    "QUT.md"
   ]
 }

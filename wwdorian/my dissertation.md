@@ -6,7 +6,7 @@
 
 ### Introduction
 
-Featuring a meticulously constructed theoretical framework, this research is carried out in order to enrich the current study of literature and gender, addressing the prevalent debate on gender identity, by incorporating a stance derived from Michel Foucault's theories on sex and body into the discussion and investigation on the eponymous, male-to-female protagonist of Virginia Woolf's widely known and broadly studied work, *Orlando: A Biography*. This study aims 
+Featuring a meticulously constructed theoretical framework, this research is carried out in order to enrich the current study of literature and the discussion of gender, addressing the prevalent debate on gender identity, by incorporating a stance derived from Michel Foucault's theories on sex and body into the discussion and investigation on the eponymous, male-to-female protagonist of Virginia Woolf's widely known and broadly studied work, *Orlando: A Biography*. This study aims to 
 
 #### Author, Book, and The Protagonist
 

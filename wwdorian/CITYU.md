@@ -2,4 +2,4 @@
 alias: [City University]
 ---
 
-- [[order 24]] ^ac37be
+- [[0024]] ^ac37be
