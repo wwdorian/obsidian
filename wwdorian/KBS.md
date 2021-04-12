@@ -2,5 +2,5 @@
 aliases: [Kaplan Business School Australia]
 ---
 
--   MBA503 - [[0002]] ^000990
--   MBA652 - [[0001]] ^a69ed6
+-   MBA503 - [[14765]] ^000990
+-   MBA652 - [[14730]] ^a69ed6

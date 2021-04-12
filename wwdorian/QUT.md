@@ -2,4 +2,4 @@
 alias: [Queensland University of Technology]
 ---
 
-- AMB318 - [[0049]] ^41990e
+- AMB318 - [[16916]] ^41990e
