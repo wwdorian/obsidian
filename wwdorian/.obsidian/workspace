@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9393aa192d76e19b",
+        "id": "c2aced3652cc4854",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "16916.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reference",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "30e846a783a12208",
@@ -68,7 +66,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "16916.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -128,9 +125,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "16916.md"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +157,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16916.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +174,17 @@
     "width": 310.97711181640625,
     "collapsed": true
   },
-  "active": "9393aa192d76e19b",
+  "active": "c2aced3652cc4854",
   "lastOpenFiles": [
-    "16916.md",
-    "0001 Orders MOC.md",
+    "15991.md",
+    "17215.md",
+    "15626.md",
+    "GU.md",
+    "AUT.md",
+    "15745.md",
+    "Untitled.md",
+    "16009.md",
     "16890.md",
-    "16876.md",
-    "16859.md",
-    "16520.md",
-    "16050.md",
-    "SUT.md",
-    "17047.md",
-    "16707.md"
+    "17196.md"
   ]
 }
