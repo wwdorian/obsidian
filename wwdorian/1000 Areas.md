@@ -8,5 +8,5 @@ This is also exactly why zettelkasten works so well. Emergence. New understandin
 
 -   Be a polymath | Think across disciplines
     -   [[1002 Great Books of the Western World MOC|GBWW MOC]]
-
-
+- 谋局划策 | 深思熟虑
+	- [[鬼谷子]]

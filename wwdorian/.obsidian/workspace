@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "c2aced3652cc4854",
+        "id": "9393aa192d76e19b",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "动静性命.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#reference",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "30e846a783a12208",
@@ -66,6 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "动静性命.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0121879577637,
-    "collapsed": true
+    "width": 269.0121879577637
   },
   "right": {
     "id": "3daf49910a155d14",
@@ -125,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "动静性命.md"
+              }
             }
           },
           {
@@ -143,9 +147,20 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "085be13d1dc68e86",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "动静性命.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5e986aa7c23a4c76",
@@ -157,6 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "动静性命.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,17 +190,17 @@
     "width": 310.97711181640625,
     "collapsed": true
   },
-  "active": "c2aced3652cc4854",
+  "active": "9393aa192d76e19b",
   "lastOpenFiles": [
-    "15991.md",
-    "17215.md",
-    "15626.md",
-    "GU.md",
-    "AUT.md",
-    "15745.md",
-    "Untitled.md",
-    "16009.md",
-    "16890.md",
-    "17196.md"
+    "动静性命.md",
+    "捭阖第一.md",
+    "鬼谷子.md",
+    "0000 Projects.md",
+    "what is the Great Conversation.md",
+    "what does the image imply.md",
+    "types of investors.md",
+    "traditional v.s. modern views on body.md",
+    "humans nature - as spirits, like angels.md",
+    "influenced by religious symbolism.md"
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "Blue Topaz",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "line"
+  ],
+  "baseFontSize": 16
+}

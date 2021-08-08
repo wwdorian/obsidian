@@ -70,8 +70,8 @@
   --blockquote-border: #4aa8fb;
   --tag-background: #a7b0b3;
   --interactive-accent-rgb: #3dd7fb;
-  --font-family-editor: 'Prociono', 'Cascadia Code';
-  --font-family-preview: 'Prociono', 'Cascadia Code';
+  --font-family-editor: 'Source Han Serif SC';
+  --font-family-preview: 'Source Han Serif SC';
   --bg-sub-accent-55: rgba(244, 86, 157, 0.55);
   --bg-accent-55: rgba(14, 210, 247, 0.55);
   --text-highlight-bg: rgba(244, 86, 157, 0.25);
@@ -105,10 +105,10 @@
   --body-font-weight: 450;
 
   /** Font family for hash-tags **/
-  --tag-font-family: 'Cascadia Code' !important;
+  --tag-font-family;!important;
 
   /** Font specially for codes **/
-  --code-mono-font: 'Cascadia Code';
+  --code-mono-font;
 }
 
 /**-------------------**
@@ -713,7 +713,7 @@ pre.HyperMD-header.HyperMD-header-6 {
 strong {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  font-family: 'Cascadia Code';
+  font-family;
   padding: 0 0.1rem;
   color: #7aa2f7;
   background-color: #7aa2f7;
@@ -745,7 +745,7 @@ strong kbd {
 .cm-em,
 em {
   color: #bb9af7 !important;
-  font-family: Cascadia Code !important;
+  font-famil;important;
 }
 
 .cm-em.cm-formatting-em {
@@ -1098,7 +1098,7 @@ pre {
 }
 
 pre[class*='language-']:before {
-  font-family: Prociono, Cascadia Code, Lucida Grande, Lucida Sans Unicode, Tahoma, Serif;
+  font-family: Source Han Serif S;Lucida Grande, Lucida Sans Unicode, Tahoma, Serif;
   font-style: normal;
   font-weight: 700;
   font-size: 0.6rem;
@@ -1337,7 +1337,7 @@ pre[class*='language-'] {
   color: #ccc;
   background: rgb(40, 41, 54);
   text-shadow: none;
-  font-family: 'Prociono', 'Cascadia Code', monospace !important;
+  font-family: 'Source Han Serif SC'; monospace !important;
   text-align: left;
   white-space: pre;
   word-spacing: normal;
