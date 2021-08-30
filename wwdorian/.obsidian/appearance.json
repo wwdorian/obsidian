@@ -1,9 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Blue Topaz",
+  "cssTheme": "Obsidianite",
   "translucency": false,
-  "enabledCssSnippets": [
-    "line"
-  ],
-  "baseFontSize": 16
+  "enabledCssSnippets": [],
+  "baseFontSize": 18
 }

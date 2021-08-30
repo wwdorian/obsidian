@@ -14,12 +14,12 @@ Since version 0.9.2 I am already making independent changes without following th
 
 body {
   font-size: 13px;
-  font-family: Source Code Pro, Fira Code, monospace;
-  --font-monospace: Source Code Pro, Fira Code, monospace;
+  font-family: "Source Serif Pro", serif;
+  --font-serif: "Source Serif Pro", serif;
 }
 .CodeMirror pre.CodeMirror-line {
-  font-size: 13px;
-  font-family: Source Code Pro, Fira Code, monospace;
+  font-size: 16px;
+  font-family: "Source Serif Pro", serif;
 }
 
 /* ======= DARK ==============*/
@@ -137,7 +137,7 @@ body {
   color: var(--text-accent);
   font-size: 0.85em;
   font-weight: 500;
-  font-family: var(--font-monospace);
+  font-family: var(--font-serif);
 }
 
 /* Editor view - task list, color and veritcal align */
@@ -173,7 +173,7 @@ body {
 .theme-light pre[class*="language-"] {
   background: var(--background-primary-alt);
   text-shadow: 0px 0px white;
-  font-family: var(--font-monospace);
+  font-family: var(--font-serif);
   text-align: left;
   white-space: pre;
   word-spacing: normal;
@@ -231,12 +231,12 @@ div.tag-pane-tag.pane-clickable-item.pane-list-item,
 div.tree-item-inner,
 div.collapsible-item-self.is-clickable {
   color:var(--text-nav);
-  font-size: 12px;
+  font-size: 14px;
 }
 
 .suggestion-item {
   color:var(--text-faint);
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .nav-file-title.is-being-dragged,
@@ -339,7 +339,7 @@ div.setting-item-name {
   display: inline-block;
   margin: 0px 4px;
   cursor: pointer;
-  border-radius: 14px;
+  border-radius: 16px;
 }
 
 .tag:hover {
@@ -428,7 +428,7 @@ ul ul::before {
 .markdown-preview-view h2 {
   font-size: 26px;
   line-height: 36px;
-  padding-top: 14px;
+  padding-top: 16px;
   padding-bottom: 6px;
   border-bottom: 1px solid var(--text-faint);
 }
@@ -523,8 +523,8 @@ ul ul::before {
 }
 
 .nav-action-button > svg {
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 .nav-action-button {
@@ -545,7 +545,7 @@ ul ul::before {
 
 .nav-folder.mod-root > .nav-folder-title {
   padding-left: 6px;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: bolder;
   top: -6px; /* higher */
   cursor: default;
@@ -555,9 +555,9 @@ ul ul::before {
 
 .nav-file-title,
 .nav-folder-title {
-  font-family: Source Code Pro, monospace;
-  font-size: 12px;
-  line-height: 14px;
+  font-family: "Source Serif Pro", serif;
+  font-size: 14px;
+  line-height: 16px;
   cursor: pointer;
   position: relative;
   border-width: 1px;
@@ -565,7 +565,7 @@ ul ul::before {
   border-color: transparent;
   border-image: initial;
   border-radius: 0px;
-  padding: 1px 14px 0px 20px;
+  padding: 1px 16px 0px 20px;
 }
 
 .nav-file-tag {
@@ -578,9 +578,9 @@ input[type="text"],
 input[type="email"],
 input[type="password"],
 input[type="number"] {
-  font-family: Source Code Pro, monospace;
+  font-family: "Source Serif Pro", serif;
   padding: 5px 8px;
-  font-size: 14px;
+  font-size: 16px;
   border-radius: 4px;
 }
 .search-input {
@@ -593,7 +593,7 @@ input[type="number"] {
 
 .nav-folder-collapse-indicator {
   position: absolute;
-  left: 12px;
+  left: 14px;
   top: 4px;
   width: 9px;
   height: 9px;
@@ -607,20 +607,20 @@ input[type="number"] {
 /* ===== smaller view-actions icons ===== */
 
 .view-action > svg {
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 .view-action > svg.link {
   color:red;
 }
 .view-header-icon > svg {
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 .workspace-tab-header-inner-icon > svg {
-  width: 14px;
-  height: 14px;
+  width: 16px;
+  height: 16px;
 }
 
 /* ====== scrollbars:no rounded corners =========*/
@@ -742,7 +742,7 @@ input[type="number"] {
   right: 10px;
   font-size: 11px;
   background-color: var(--background-secondary-alt);
-  line-height: 12px;
+  line-height: 14px;
   border-radius: 3px;
   padding: 2px 4px;
 }
@@ -775,8 +775,8 @@ input[type="number"] {
 /*===== backlink pane smaller fonts=======*/
 
 .side-dock-collapsible-section-header {
-  font-size: 12px;
-  padding: 4px 14px 0 22px;
+  font-size: 14px;
+  padding: 4px 16px 0 22px;
   user-select: none;
   cursor: pointer;
   position: relative;
@@ -789,16 +789,16 @@ input[type="number"] {
 }
 
 .search-result-file-title {
-  font-size: 14px;
+  font-size: 16px;
   color: var(--text-accent);
   border-radius: 0px;
   border-top: 1px solid var(--background-modifier-border);
-  padding: 2px 12px 0px 18px;
+  padding: 2px 14px 0px 18px;
 }
 
 .search-result-file-matches {
   color: var(--text-muted);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 16px;
   padding: 2px 0px;
   margin-bottom: -6px;
@@ -806,7 +806,7 @@ input[type="number"] {
 }
 .search-result-file-match{
   color: var(--text-muted);
-  font-size: 12px;
+  font-size: 14px;
   line-height: 16px;
   padding: 2px 0px;
   margin-bottom: 4px;
@@ -831,7 +831,7 @@ input[type="number"] {
 
 .search-empty-state {
     color: var(--text-error);
-    font-size: 12px;
+    font-size: 14px;
     margin: 0 20px 15px 20px;
 }
 /* the small text ... and XX matches */
@@ -923,12 +923,12 @@ input[type="number"] {
 }
 .graph-controls-button.mod-close svg,
 .graph-controls-button.mod-reset svg {
-  width:12px;
-  height:12px;
-}
-.graph-controls-button.mod-open svg {
   width:14px;
   height:14px;
+}
+.graph-controls-button.mod-open svg {
+  width:16px;
+  height:16px;
 }
 .graph-controls.is-close {
   min-width: inherit;
@@ -1006,7 +1006,7 @@ input[type="number"] {
   background-color: var(--text-faint);
   border-radius: 3px;
   display: inline-block;
-  height: 12px;
+  height: 14px;
   position: relative;
   top: 6px;
   user-select: none;
@@ -1023,7 +1023,7 @@ input[type="number"] {
   display: block;
   position: absolute;
   background-color: var(--text-on-accent);
-  width: 12px;
+  width: 14px;
   height: 10px;
   margin: 1px 2px 1px 3px;
   border-radius: 2px;
@@ -1033,7 +1033,7 @@ input[type="number"] {
   box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.15);
 }
 .graph-controls .checkbox-container.is-enabled:after {
-  transform: translate3d(14px, 0, 0);
+  transform: translate3d(16px, 0, 0);
 }
 .view-content > iframe {
   background-color: var(--graph-bg);
@@ -1043,8 +1043,8 @@ input[type="number"] {
 .cm-s-obsidian .CodeMirror-linenumber {
   color: var(--text-accent);
   opacity: 0.3;
-  font-size: 14px;
-  font-family: Source Code Pro, monospace;
+  font-size: 16px;
+  font-family: "Source Serif Pro", serif;
 }
 
 .CodeMirror-gutter-elt {
@@ -1106,7 +1106,7 @@ input[type="number"] {
 .footnotes {
   text-align: justify;
   hyphens: auto;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 sup {
@@ -1133,7 +1133,7 @@ blockquote {
   color: #8c8c8c;
   font-size: 1em;
   font-style: normal;
-  padding: 24px 16px 12px;
+  padding: 24px 16px 14px;
   margin: 24px 0 36px;
   line-height: 1.6;
   text-indent: 0;
@@ -1154,7 +1154,7 @@ blockquote:before {
   top: 0;
   color: var(--text-accent);
   font-size: 2em;
-  font-family: Source Code Pro, monospace;
+  font-family: "Source Serif Pro", serif;
   line-height: 1em;
   font-weight: 700;
 }
@@ -1310,7 +1310,7 @@ body.is-translucent {
 /*======== optionnal mermaid style below ========*/
 
 .label {
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
   color: var(--text-normal) !important;
 }
 
@@ -1369,7 +1369,7 @@ div.mermaidTooltip {
   text-align: center !important;
   max-width: 200px !important;
   padding: 2px !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
   font-size: 10px !important;
   background: var(--background-secondary) !important;
   border: 1px solid var(--text-faint) !important;
@@ -1484,7 +1484,7 @@ text.actor > tspan {
 /** Section styling */
 
 .mermaid-main-font {
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .section {
@@ -1525,8 +1525,8 @@ text.actor > tspan {
 .sectionTitle {
   text-anchor: start !important;
   font-size: 9px !important;
-  line-height: 14px !important;
-  font-family: Source Code Pro, monospace !important;
+  line-height: 16px !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 /* Grid and axis */
@@ -1538,7 +1538,7 @@ text.actor > tspan {
 }
 
 .grid .tick text {
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .grid path {
@@ -1563,7 +1563,7 @@ text.actor > tspan {
 
 .taskText {
   text-anchor: middle !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .taskText:not([font-size]) {
@@ -1574,7 +1574,7 @@ text.actor > tspan {
   fill: var(--text-normal) !important;
   text-anchor: start !important;
   font-size: 9px !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .taskTextOutsideLeft {
@@ -1710,13 +1710,13 @@ text.actor > tspan {
   text-anchor: middle !important;
   font-size: 16px !important;
   fill: var(--text-normal) !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 g.classGroup text {
   fill: var(--text-accent) !important;
   stroke: none !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
   font-size: 8px !important;
 }
 
@@ -1813,25 +1813,25 @@ g.classGroup line {
 .branch-label {
   fill: var(--text-muted) !important;
   color: var(--text-muted) !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .pieTitleText {
   text-anchor: middle !important;
   font-size: 18px !important;
   fill: var(--text-normal) !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .slice {
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 g.stateGroup text {
   fill: var(--text-accent) !important;
   stroke: none !important;
   font-size: 10px !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 g.stateGroup text {
@@ -1893,7 +1893,7 @@ g.stateGroup line {
   fill: black !important;
   font-size: 10px !important;
   font-weight: bold !important;
-  font-family: Source Code Pro, monospace !important;
+  font-family: "Source Serif Pro", serif !important;
 }
 
 .node circle.state-start {
@@ -1967,8 +1967,8 @@ g.stateGroup line {
 }
 
 :root {
-  --mermaid-font-family: 'Source Code Pro, monospace' !important;
-  --mermaid-font-family: Source Code Pro, monospace, cursive !important;
+  --mermaid-font-family: '"Source Serif Pro", serif' !important;
+  --mermaid-font-family: "Source Serif Pro", serif, cursive !important;
 }
 
 /* Classes common for multiple diagrams */
@@ -2031,8 +2031,8 @@ button {
   border: none;
   padding: 6px 20px;
   cursor: pointer;
-  margin-right: 12px;
-  font-family: Code Sans Pro, monospace;
+  margin-right: 14px;
+  font-family: Code Sans Pro, serif;
   outline: none;
   user-select: none;
 }
@@ -2103,7 +2103,7 @@ TASKLIST in Preview mode: set the size of "checked" and the text display paramet
 .markdown-preview-view .task-list-item-checkbox {
   position: relative;
   top: 0.4em;
-  left: -12px;
+  left: -14px;
   margin-right: 0em;
 }
 

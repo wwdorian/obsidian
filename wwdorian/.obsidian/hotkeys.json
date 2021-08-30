@@ -240,5 +240,13 @@
       ],
       "key": "D"
     }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "N"
+    }
   ]
 }

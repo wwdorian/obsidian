@@ -1,7 +1,5 @@
 [
-  "obsidian-advanced-appearance",
   "table-editor-obsidian",
-  "better-pdf-plugin",
   "better-word-count",
   "calendar",
   "convert-url-to-iframe",
@@ -14,5 +12,8 @@
   "obsidian-fullscreen-plugin",
   "hotkey-helper",
   "macOS-keyboard-nav-obsidian",
-  "cm-chs-patch"
+  "cm-chs-patch",
+  "obsidian-kanban",
+  "sliding-panes-obsidian",
+  "cm-editor-syntax-highlight-obsidian"
 ]

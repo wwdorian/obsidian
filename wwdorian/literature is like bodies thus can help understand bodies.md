@@ -1,5 +1,0 @@
-Literature often has only itself to blame for its obscurity, but should this be this case? To mystify is to create something literary; to demystify equals to breaking it down to pieces.
-
-So literature is like bodies since [[body is undefinable]], according to the passage, in that the body itself can be torn apart but doesn't return to life after being reassembled. So this actually talks about the coherence in literary writings. That's why literature can help us understand the embodied life, which means here corporeal life, both of which resist categorisations/definitions.
-
-> This volume has as its starting point the contention that literature - at lease as much as philosophy or science - can help us understand the complexities of embodied life. Literary texts, after all, tend to deal with the more ambivalent and amorphous areas of experience where simple definitions break down or prove inadequate. The greatest literary texts seldom propose straightforward answers, but instead provide us with nuanced representations that question the reductive categorisations that embodiment necessarily resists.

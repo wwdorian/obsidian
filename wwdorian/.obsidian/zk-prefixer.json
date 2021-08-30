@@ -1,1 +1,5 @@
-{"folder":"/","format":"-"}
+{
+  "folder": "/",
+  "format": "-YYYYMMDDHHmm",
+  "template": "zk template"
+}

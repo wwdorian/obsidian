@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "9393aa192d76e19b",
+        "id": "024f1a286bcbb34a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "动静性命.md",
-            "mode": "preview"
+            "file": "Business Analysis Foundations.md",
+            "mode": "source"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reference",
+                "query": "traditional v.s. modern",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "动静性命.md",
+                "file": "Business Analysis Foundations.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -91,7 +91,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.8589458344196581,
+                  "scale": 1.1721119034337737,
                   "close": false
                 }
               }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.0121879577637
+    "width": 269.0121879577637,
+    "collapsed": true
   },
   "right": {
     "id": "3daf49910a155d14",
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "动静性命.md"
+                "file": "Business Analysis Foundations.md"
               }
             }
           },
@@ -149,12 +150,12 @@
             }
           },
           {
-            "id": "085be13d1dc68e86",
+            "id": "402e5083ea03b76b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "动静性命.md",
+                "file": "Business Analysis Foundations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "动静性命.md",
+                "file": "Business Analysis Foundations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,17 +191,17 @@
     "width": 310.97711181640625,
     "collapsed": true
   },
-  "active": "9393aa192d76e19b",
+  "active": "024f1a286bcbb34a",
   "lastOpenFiles": [
-    "动静性命.md",
+    "Business Analysis Foundations.md",
+    "002.1 Business Analysis and Strategy MOC.md",
+    "002 Business MOC.md",
+    "§ HOME.md",
+    "000 鬼谷子 MOC.md",
+    "000.1 动静性命.md",
     "捭阖第一.md",
-    "鬼谷子.md",
-    "0000 Projects.md",
-    "what is the Great Conversation.md",
-    "what does the image imply.md",
-    "types of investors.md",
-    "traditional v.s. modern views on body.md",
-    "humans nature - as spirits, like angels.md",
-    "influenced by religious symbolism.md"
+    "经典训练.md",
+    "动静性命.md",
+    "www.linkedin.com/learning.md"
   ]
 }

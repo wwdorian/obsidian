@@ -151,5 +151,5 @@
   "showUnsupportedFiles": true,
   "autoConvertHtml": true,
   "lineWrap": true,
-  "showFrontmatter": true
+  "showFrontmatter": false
 }
